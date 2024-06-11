@@ -27,4 +27,4 @@ This project is a simple CRUD (Create, Read, Update, Delete) application develop
 
 1. **Clone the repository:**
   
-   git clone [https://github.com/yourusername/bank-crud-operation.git](https://github.com/dhirajdurande13/BankCrud)
+   git clone (https://github.com/dhirajdurande13/BankCrud)
